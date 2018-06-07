@@ -73,10 +73,9 @@ class UpgradeData implements UpgradeDataInterface
                 'required' => false,
                 'visible' => true,
                 'visible_on_front' => true,
-                'is_user_defined' => true,
+                'is_user_defined' => 1,
                 'sort_order' => 43,
-                'position' => 43,
-                'system' => 0,
+                'position' => 43
             ]);
 
             $attribute = $customerSetup->getEavConfig()->getAttribute('customer_address', 'residential_type')
