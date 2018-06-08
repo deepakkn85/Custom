@@ -1,8 +1,8 @@
 <?php
 /**
- * @author Amasty Team
- * @copyright Copyright (c) 2017 Amasty (https://www.amasty.com)
- * @package Amasty_Xcoupon
+ * @package Custom_Module
+ * @author  Deepak K
+ * @copyright Copyright © 2018 Corra. All rights reserved.
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(

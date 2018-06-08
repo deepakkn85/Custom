@@ -1,9 +1,8 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: corra-233
- * Date: 06/06/18
- * Time: 6:07 PM
+ * @package Custom_Module
+ * @author  Deepak K
+ * @copyright Copyright © 2018 Corra. All rights reserved.
  */
 
 namespace Custom\Module\Block;

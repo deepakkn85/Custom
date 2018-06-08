@@ -1,7 +1,8 @@
 <?php
 /**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
+ * @package Custom_Module
+ * @author  Deepak K
+ * @copyright Copyright © 2018 Corra. All rights reserved.
  */
 namespace Custom\Module\Model\Attribute\Source;
 
